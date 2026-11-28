@@ -3,9 +3,11 @@
 // null = použij automatický výpočet z almanachu.
 window.KUNSTERS_HEADCOVERS_OVERRIDES = {
   tiger: {
-    // "2023-1": "Jméno hráče"
+    "2023-6": "Opatrný Tomáš",
+    "2025-5": "Opatrný Tomáš"
   },
   pig: {
-    // "2023-1": "Jméno hráče"
+    "2023-4": "Kracík Marek",
+    "2023-8": "Polák Tomáš"
   }
 };
